@@ -44,15 +44,15 @@ This is a combine-based system designed to detect and extinguish residual fires 
 ■ 주요 공식 및 이론: 
 
 - SLAM (Log-Odds 업데이트)	LiDAR 점군으로 점유 격자 지도 작성 및 위치 추정.
-- 
+
 - A* 알고리즘 + Inflation	장애물 팽창 기법 적용, 목표 waypoint까지 최적 경로 탐색.
-- 
+
 - VFH 히스토그램 회피	전방 36구역 분할, 여유 공간 비교 후 회피 방향 결정.
-- 
+
 - Visual Servoing (P-제어)	카메라 화면 내 화원 중심 오차를 피드백으로 조향 제어.
-- 
+
 - 상보필터 (자이로+엔코더)	방위각 θ: 자이로 92% + 엔코더 적분 8% 융합으로 Drift 보정.
-- 
+
 - von Mises 응력 기준	ANSYS 구조 해석. PLA: 최대 2.39MPa < 항복 2.4MPa, Steel: 11.87MPa ≪ 55MPa.
 
 -------------------------------------------------------------------------------------------------------------
