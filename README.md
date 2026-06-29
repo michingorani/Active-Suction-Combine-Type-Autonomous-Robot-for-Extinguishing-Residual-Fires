@@ -1,4 +1,4 @@
-# Active-Suction-Combine-Type-Autonomous-Robot-for-Extinguishing-Residual-Fires
+# 능동 흡입식 콤바인형 자율주행 잔불 진화 로봇 (Active-Suction-Combine-Type-Autonomous-Robot-for-Extinguishing-Residual-Fires)
 This is a combine-based system designed to detect and extinguish residual fires to prevent wildfire reignition, with the objectives of developing an autonomous navigation program with obstacle avoidance, implementing a function to mix fallen leaves using the combine, and spraying extinguishing fluid upon detecting residual fire.
 
 ■ Intriduction
