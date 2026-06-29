@@ -1,6 +1,12 @@
 # Active-Suction-Combine-Type-Autonomous-Robot-for-Extinguishing-Residual-Fires
 This is a combine-based system designed to detect and extinguish residual fires to prevent wildfire reignition, with the objectives of developing an autonomous navigation program with obstacle avoidance, implementing a function to mix fallen leaves using the combine, and spraying extinguishing fluid upon detecting residual fire.
 
+■ Intriduction
+이 코드는 캡스톤 디자인을 위해 제작했던 '능동 흡입식 콤바인형 자율주행 잔불 진화 로봇'의 코드이다. 간단한 설명과 어떤 센서와 부품들을 사용하였는지 간략히 적어놓았다. 또한 이 작품은 캡스톤 디자인대회에서 은상을 수상한 작품이다. 
+
+■ 작품명 
+능동 흡입식 콤바인형 자율주행 잔불 진화 로봇
+
 ■ 목적 및 문제제기
 최근 기후 변화 및 지구 온난화로 인해 대형 산불의 발생 빈도가 급증하고 있으며, 이를 진압하기 위해 막대한 소방 인력이 투입되고 있다. 산불은 특성상 지표층 아래 숨은 불씨로 인한 재발화 위험성이 매우 높기 때문에, 진화된 구역을 장시간 감시하고 잔불을 처리하는 과정에서 심각한 소방 인력의 피로도 증가 및 자원 손실이 발생한다.
 
