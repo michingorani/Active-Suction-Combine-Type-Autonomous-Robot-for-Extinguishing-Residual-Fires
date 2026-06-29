@@ -22,7 +22,7 @@ This is a combine-based system designed to detect and extinguish residual fires 
 
 -라즈베리파이 5 (8GB)	중앙 연산 장치. SLAM, 열화상, 경로 계획을 동시에 처리.
 -RPLIDAR C1 (슬램텍)	360° 2D LiDAR. 12m 측정거리. 지도 작성(SLAM) 및 장애물 회피.
--MLX90640 열화상 센서	32×24픽셀 적외선 온도 센서. -40~300°C 측정. 잔불 위치 추적.
+-MLX90640 열화상 센서	32×24픽셀 적외선 온도 센서. '-40~300°C' 측정. 잔불 위치 추적.
 -IG-32GM 감속기어모터 ×2	12V 고토크 인코더 장착형. 차동 구동으로 주행 및 조향 제어.
 -리니어 액추에이터 LM2036B	DC12V, 추력 30N, 스트로크 10mm. 콤바인 상하 제어.
 -R385 워터펌프	6~12V, 1.5~2L/min. 소화액 분사.
